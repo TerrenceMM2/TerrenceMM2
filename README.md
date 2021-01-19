@@ -1,4 +1,4 @@
-### Hi there. 👋  My name is Terrence.
+### Hi there. My name is Terrence. 👋 
 
 👨‍💻 Coding: _Taking a break._  
 📖 Reading: _Geisha, A Life_ by Mineko Iwasaki  
