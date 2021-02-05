@@ -3,7 +3,7 @@
 👨‍💻 Coding: _Taking a break._  
 📖 Reading: _Geisha, A Life_ by Mineko Iwasaki  
 🎧 Listening: [Video Game Study Lounge (a YouTube playlist)](https://www.youtube.com/watch?v=KEAq7nxXYeI)  
-🕹 Playing: Hyrule Warriors: Age of Calamity. <img src="https://raw.githubusercontent.com/terrencemm2/terrencemm2/main/assets/tarrako.png" height=14 />  
+🕹 Playing: Hyrule Warriors: Age of Calamity. <img src="https://raw.githubusercontent.com/terrencemm2/terrencemm2/main/assets/terrako.png" height=14 />  
 👨‍🏫 Learning: Japanese <img src="https://raw.githubusercontent.com/terrencemm2/terrencemm2/main/assets/japanese_flag.png" height=14 /> | Azure <img src="https://raw.githubusercontent.com/terrencemm2/terrencemm2/main/assets/azure.png" height=14 /> | Vue <img src="https://raw.githubusercontent.com/TerrenceMM2/TerrenceMM2/main/assets/vue.png" height=14 />  
 
 ![Terrence's GitHub Stats](https://github-readme-stats.vercel.app/api?username=terrencemm2&count_private=true&show_icons=true&title_color=20c997&bg_color=333&text_color=eee&icon_color=20c997&hide_border=true)
