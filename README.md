@@ -1,8 +1,8 @@
 ### Hi there. My name is Terrence. 👋 
 
-👨‍💻 Coding: _Taking a break._  
-📖 Reading: _Geisha, A Life_ by Mineko Iwasaki  
-🎧 Listening: [Video Game Study Lounge (a YouTube playlist)](https://www.youtube.com/watch?v=KEAq7nxXYeI)  
+👨‍💻 Coding: [petewanca.com](https://github.com/petewanca/petewanca.github.io)  
+📖 Reading: _The Unicorn Project_ by Gene Kim  
+🎧 Listening: [Synthwave Radio (a YouTube playlist)](https://www.youtube.com/watch?v=Yv4dVgTc1-g)  
 🕹 Playing: Hyrule Warriors: Age of Calamity. <img src="https://raw.githubusercontent.com/terrencemm2/terrencemm2/main/assets/terrako.png" height=14 />  
 👨‍🏫 Learning: Japanese <img src="https://raw.githubusercontent.com/terrencemm2/terrencemm2/main/assets/japanese_flag.png" height=14 /> | Azure <img src="https://raw.githubusercontent.com/terrencemm2/terrencemm2/main/assets/azure.png" height=14 /> | Vue <img src="https://raw.githubusercontent.com/TerrenceMM2/TerrenceMM2/main/assets/vue.png" height=14 />  
 
