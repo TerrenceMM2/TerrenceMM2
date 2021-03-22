@@ -1,8 +1,8 @@
 ### Hi there. My name is Terrence. 👋 
 
-👨‍💻 Coding: [petewanca.com](https://github.com/petewanca/petewanca.github.io)  
-📖 Reading: _The Unicorn Project_ by Gene Kim  
-🎧 Listening: [Synthwave Radio (a YouTube playlist)](https://www.youtube.com/watch?v=Yv4dVgTc1-g)  
+👨‍💻 Coding: [petewanca.com](https://petewanca.com)  
+📖 Reading: [_Ahsoka_ by E. K. Johnston](https://starwars.fandom.com/wiki/Ahsoka_(novel))  
+🎧 Listening: [_Polydans_ by Roosevelt](https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U?si=Hh5FlV6DRZyR2AiOIYVwjA)  
 🕹 Playing: Hyrule Warriors: Age of Calamity. <img src="https://raw.githubusercontent.com/terrencemm2/terrencemm2/main/assets/terrako.png" height=14 />  
 👨‍🏫 Learning: Japanese <img src="https://raw.githubusercontent.com/terrencemm2/terrencemm2/main/assets/japanese_flag.png" height=14 /> | Azure <img src="https://raw.githubusercontent.com/terrencemm2/terrencemm2/main/assets/azure.png" height=14 /> | Vue <img src="https://raw.githubusercontent.com/TerrenceMM2/TerrenceMM2/main/assets/vue.png" height=14 />  
 
