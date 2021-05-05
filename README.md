@@ -1,10 +1,10 @@
 ### Hi there. My name is Terrence. 👋 
 
-👨‍💻 Coding: [unnamed, local business app](https://github.com/TerrenceMM2/urban-giggle)  
-📖 Reading: [_Ahsoka_ by E. K. Johnston](https://starwars.fandom.com/wiki/Ahsoka_(novel))  
-🎧 Listening: [_Polydans_ by Roosevelt](https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U?si=Hh5FlV6DRZyR2AiOIYVwjA)  
-🕹 Playing: Hyrule Warriors: Age of Calamity. <img src="https://raw.githubusercontent.com/terrencemm2/terrencemm2/main/assets/terrako.png" height=14 />  
-👨‍🏫 Learning: Japanese <img src="https://raw.githubusercontent.com/terrencemm2/terrencemm2/main/assets/japanese_flag.png" height=14 /> | Azure <img src="https://raw.githubusercontent.com/terrencemm2/terrencemm2/main/assets/azure.png" height=14 /> | Vue <img src="https://raw.githubusercontent.com/TerrenceMM2/TerrenceMM2/main/assets/vue.png" height=14 />  
+👨‍💻 Coding: [petewanca.com](https://github.com/petewanca/petewanca.github.io)  
+📖 Reading: Nothing, right now. Suggestions welcome! [<img src="https://raw.githubusercontent.com/terrencemm2/terrencemm2/main/assets/twitter_logo.png" height=14 />](https://twitter.com/TerrenceMahnken)  
+🎧 Listening: Anything synthwave/retrowave. Suggestions welcome! [<img src="https://raw.githubusercontent.com/terrencemm2/terrencemm2/main/assets/twitter_logo.png" height=14 />](https://twitter.com/TerrenceMahnken)  
+🕹 Playing: The Legend of Zelda: Breath of the Wild (for the nth time) <img src="https://raw.githubusercontent.com/terrencemm2/terrencemm2/main/assets/botw_link.png" height=22 />  
+👨‍🏫 Learning: Azure <img src="https://raw.githubusercontent.com/terrencemm2/terrencemm2/main/assets/azure.png" height=14 /> (Studying for the AZ-204 exam.)
 
 ![Terrence's GitHub Stats](https://github-readme-stats.vercel.app/api?username=terrencemm2&count_private=true&show_icons=true&title_color=20c997&bg_color=333&text_color=eee&icon_color=20c997&hide_border=true)
 
