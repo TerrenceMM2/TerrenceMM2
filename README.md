@@ -1,9 +1,9 @@
 ### Hi there. My name is Terrence. 👋 
 
-👨‍💻 Coding: [petewanca.com](https://github.com/petewanca/petewanca.github.io)  
-📖 Reading: [1Q84 by Haruki Murakami](https://www.goodreads.com/book/show/10357575-1q84)   
+👨‍💻 Coding: _Taking a break._ 🏝   
+📖 Reading: [_Futuristic Violence and Fancy Suits_ by David Wong](https://www.goodreads.com/book/show/20501606-futuristic-violence-and-fancy-suits)   
 🎧 Listening: Anything synthwave/retrowave. Suggestions welcome! [<img src="https://raw.githubusercontent.com/terrencemm2/terrencemm2/main/assets/twitter_logo.png" height=14 />](https://twitter.com/TerrenceMahnken)  
-🕹 Playing: The Legend of Zelda: Breath of the Wild (for the nth time) <img src="https://raw.githubusercontent.com/terrencemm2/terrencemm2/main/assets/botw_link.png" height=22 />  
+🕹 Playing: Super Smash Bros. Ultimate <img src="https://raw.githubusercontent.com/terrencemm2/terrencemm2/main/assets/smash.gif" height=22 />  
 👨‍🏫 Learning: Azure <img src="https://raw.githubusercontent.com/terrencemm2/terrencemm2/main/assets/azure.png" height=14 /> (Studying for the AZ-204 exam.)
 
 ![Terrence's GitHub Stats](https://github-readme-stats.vercel.app/api?username=terrencemm2&count_private=true&show_icons=true&title_color=20c997&bg_color=333&text_color=eee&icon_color=20c997&hide_border=true)
