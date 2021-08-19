@@ -1,6 +1,6 @@
 ### Hi there. My name is Terrence. 👋 
 
-👨‍💻 Coding: _Taking a break._ 🏝   
+👨‍💻 Coding: [petewanca.com](https://petewanca.com) 🔥   
 📖 Reading: [_Ready Player Two_ by Ernest Cline](https://www.goodreads.com/book/show/26082916-ready-player-two)   
 🎧 Listening: Anything synthwave/retrowave. Suggestions welcome! [<img src="https://raw.githubusercontent.com/terrencemm2/terrencemm2/main/assets/twitter_logo.png" height=14 />](https://twitter.com/TerrenceMahnken)  
 🕹 Playing: Super Smash Bros. Ultimate <img src="https://raw.githubusercontent.com/terrencemm2/terrencemm2/main/assets/smash.gif" height=22 />  
