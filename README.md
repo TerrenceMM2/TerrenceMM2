@@ -1,7 +1,7 @@
 ### Hi there. My name is Terrence. 👋 
 
 👨‍💻 Coding: [petewanca.com](https://petewanca.com) 🔥   
-📖 Reading: [_Ready Player Two_ by Ernest Cline](https://www.goodreads.com/book/show/26082916-ready-player-two)   
+📖 Reading: [_Good Omens_ by Terry Pratchett & Neil Gaiman](https://www.goodreads.com/book/show/12067.Good_Omens)   
 🎧 Listening: Anything synthwave/retrowave. Suggestions welcome! [<img src="https://raw.githubusercontent.com/terrencemm2/terrencemm2/main/assets/twitter_logo.png" height=14 />](https://twitter.com/TerrenceMahnken)  
 🕹 Playing: Super Smash Bros. Ultimate <img src="https://raw.githubusercontent.com/terrencemm2/terrencemm2/main/assets/smash.gif" height=22 />  
 👨‍🏫 Learning: Azure <img src="https://raw.githubusercontent.com/terrencemm2/terrencemm2/main/assets/azure.png" height=14 /> (Studying for the AZ-204 exam.)
