@@ -3,7 +3,7 @@
 👨‍💻 Coding: [petewanca.com](https://petewanca.com) 🔥   
 📖 Reading: [_Good Omens_ by Terry Pratchett & Neil Gaiman](https://www.goodreads.com/book/show/12067.Good_Omens)   
 🎧 Listening: [Arch Echo](https://open.spotify.com/artist/4ilweWzFHh6vrr7OOuDcUh?si=wt3clgXzSaeQiEZTVWip0w)  
-🕹 Playing: Star Fox 64 <img src="https://raw.githubusercontent.com/terrencemm2/terrencemm2/main/assets/starfox.png" height=14 />  
+🕹 Playing: The Legend of Zelda: Ocarina of Time <img src="https://raw.githubusercontent.com/terrencemm2/terrencemm2/main/assets/triforce.png" height=14 />  
 👨‍🏫 Learning: Docker <img src="https://raw.githubusercontent.com/terrencemm2/terrencemm2/main/assets/docker.png" height=14 />
 
 ![Terrence's GitHub Stats](https://github-readme-stats.vercel.app/api?username=terrencemm2&count_private=true&show_icons=true&title_color=20c997&bg_color=333&text_color=eee&icon_color=20c997&hide_border=true)
