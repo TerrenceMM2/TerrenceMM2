@@ -1,10 +1,10 @@
 ### Hi there. My name is Terrence. 👋 
 
-👨‍💻 Coding: [petewanca.com](https://petewanca.com) 🔥   
-📖 Reading: [_Good Omens_ by Terry Pratchett & Neil Gaiman](https://www.goodreads.com/book/show/12067.Good_Omens)   
-🎧 Listening: [Arch Echo](https://open.spotify.com/artist/4ilweWzFHh6vrr7OOuDcUh?si=wt3clgXzSaeQiEZTVWip0w)  
-🕹 Playing: The Legend of Zelda: Ocarina of Time <img src="https://raw.githubusercontent.com/terrencemm2/terrencemm2/main/assets/triforce.png" height=14 />  
-👨‍🏫 Learning: Docker <img src="https://raw.githubusercontent.com/terrencemm2/terrencemm2/main/assets/docker.png" height=14 />
+👨‍💻 Coding: Work Stuff ...   
+📖 Reading: [_Eloquent JavaScript_ by Marijn Haverbeke](https://eloquentjavascript.net/)   
+🎧 Listening: Synthwave <img src="https://emojis.slackmojis.com/emojis/images/1643514837/8497/synthwave.gif?1643514837" height=14 />  
+🕹 Playing: Pokémon Sword & Shield <img src="https://emojis.slackmojis.com/emojis/images/1643516982/30380/pokeball.png?1643516982" height=14 />  
+👨‍🏫 Learning: Redux <img src="https://emojis.slackmojis.com/emojis/images/1643514082/390/redux.png?1643514082" height=14 />
 
 ![Terrence's GitHub Stats](https://github-readme-stats.vercel.app/api?username=terrencemm2&count_private=true&show_icons=true&title_color=20c997&bg_color=333&text_color=eee&icon_color=20c997&hide_border=true)
 
