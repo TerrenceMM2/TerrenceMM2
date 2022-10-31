@@ -1,10 +1,10 @@
 ### Hi there. My name is Terrence. 👋 
 
-👨‍💻 Coding: Work Stuff ...   
-📖 Reading: [_Eloquent JavaScript_ by Marijn Haverbeke](https://eloquentjavascript.net/)   
-🎧 Listening: Synthwave <img src="https://emojis.slackmojis.com/emojis/images/1643514837/8497/synthwave.gif?1643514837" height=14 />  
-🕹 Playing: Pokémon Sword & Shield <img src="https://emojis.slackmojis.com/emojis/images/1643516982/30380/pokeball.png?1643516982" height=14 />  
-👨‍🏫 Learning: Redux <img src="https://emojis.slackmojis.com/emojis/images/1643514082/390/redux.png?1643514082" height=14 />
+👨‍💻 Coding: [Pete Wanca Portfolio Redesign](https://github.com/petewanca/petewanca.github.io)  
+📖 Reading: [_Code Complete: A Practical Handbook of Software Construction, Second Edition 2nd Edition_ by Steve McConnell](https://www.amazon.com/dp/0735619670/ref=cm_sw_r_tw_dp_ZFBBTKAJBEGXQ1C074E4)   
+🎧 Listening: [Synthwave](https://open.spotify.com/playlist/3looh4v6If3qgYNtW6cyTQ?si=1c958596bb924fbb) <img src="https://emojis.slackmojis.com/emojis/images/1643514837/8497/synthwave.gif?1643514837" height=14 />  
+🕹 Playing: Nothing now. Open to suggestions. [<img src="https://img.shields.io/static/v1?message=Send%20me%20a%20Tweet&logo=twitter&labelColor=333&color=1DA1F2&label=%20&style=flat&logoColor=1DA1F2"/>]([https://twitter.com/TerrenceMahnken](https://publish.twitter.com/?buttonType=MentionButton&query=https%3A%2F%2Ftwitter.com%2FTerrenceMahnken&widget=Button))  
+👨‍🏫 Learning: [Code Construction](https://www.amazon.com/dp/0735619670/ref=cm_sw_r_tw_dp_ZFBBTKAJBEGXQ1C074E4) 🔨
 
 ![Terrence's GitHub Stats](https://github-readme-stats.vercel.app/api?username=terrencemm2&count_private=true&show_icons=true&title_color=20c997&bg_color=333&text_color=eee&icon_color=20c997&hide_border=true)
 
