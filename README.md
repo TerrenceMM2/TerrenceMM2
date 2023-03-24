@@ -1,10 +1,10 @@
 ### Hi there. My name is Terrence. 👋 
 
-👨‍💻 Coding: [Pete Wanca Portfolio Redesign](https://github.com/petewanca/petewanca.github.io)  
+👨‍💻 Coding: Professional Work (Private 🔒)  
 📖 Reading: [_Code Complete: A Practical Handbook of Software Construction, Second Edition 2nd Edition_ by Steve McConnell](https://www.amazon.com/dp/0735619670/ref=cm_sw_r_tw_dp_ZFBBTKAJBEGXQ1C074E4)   
-🎧 Listening: [Synthwave](https://open.spotify.com/playlist/3looh4v6If3qgYNtW6cyTQ?si=1c958596bb924fbb) <img src="https://emojis.slackmojis.com/emojis/images/1643514837/8497/synthwave.gif?1643514837" height=14 />  
+🎧 Listening: [Futurecop!](https://open.spotify.com/artist/10yA9Y6h5wbDaX5XuZuA9X?si=823-G9vjQ_CxhkpLBmldDA) <img src="https://emojis.slackmojis.com/emojis/images/1643514837/8497/synthwave.gif?1643514837" height=14 />  
 🕹 Playing: Nothing now. Open to suggestions. [<img src="https://img.shields.io/static/v1?message=Send%20me%20a%20Tweet&logo=twitter&labelColor=333&color=1DA1F2&label=%20&style=flat&logoColor=1DA1F2"/>](https://twitter.com/intent/tweet?screen_name=TerrenceMahnken&ref_src=twsrc%5Etfw)  
-👨‍🏫 Learning: [Code Construction](https://www.amazon.com/dp/0735619670/ref=cm_sw_r_tw_dp_ZFBBTKAJBEGXQ1C074E4) 🔨
+👨‍🏫 Learning: [Code Construction](https://www.amazon.com/dp/0735619670/ref=cm_sw_r_tw_dp_ZFBBTKAJBEGXQ1C074E4) 🔨 [The 7 Habits of Highly Effective People](https://a.co/d/ecrGSPa)
 
 ### Get in touch ...
 
