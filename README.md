@@ -1,6 +1,6 @@
 ### Hi there. My name is Terrence. 👋 
 
-👨‍💻 Coding: TypeScript Practice  
+👨‍💻 Coding: TypeScript & GraphQL Training  
 📖 Reading: [_The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change_ by Stephen R. Covey](https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People)  
 🎧 Listening: [Future Funk (Spotify Playlist)](https://open.spotify.com/playlist/37i9dQZF1DXbjGYBfEmjR5?si=4130827b2b1c492d)  
 🕹 Playing: The Legend of Zelda: Tears of the Kingdom <img src="https://raw.githubusercontent.com/TerrenceMM2/TerrenceMM2/main/assets/botw_link.png" height=20 />  
