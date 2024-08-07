@@ -1,10 +1,14 @@
 ### Hi there. My name is Terrence. 👋 
 
 👨‍💻 Coding: Work stuff ...  
-📖 Reading: [_The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change_ by Stephen R. Covey](https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People)  
+📖 Reading:  
+- [_Men Without Women_ by Haruki Murakami](https://www.goodreads.com/book/show/33652490-men-without-women)  
+- [_Keep Calm and Code On_ by Alex Lau](https://www.goodreads.com/book/show/214528135-keep-calm-and-code-on)  
+- [_Clean Code: A Handbook of Agile Software Craftsmanship_ by Robert C. Martin](https://www.goodreads.com/book/show/3735293-clean-code)
+
 🎧 Listening: [Future Funk (Spotify Playlist)](https://open.spotify.com/playlist/37i9dQZF1DXbjGYBfEmjR5?si=4130827b2b1c492d)  
 🕹 Playing: The Legend of Zelda: Tears of the Kingdom <img src="https://raw.githubusercontent.com/TerrenceMM2/TerrenceMM2/main/assets/botw_link.png" height=20 />  
-👨‍🏫 Learning: [Code Construction](https://www.amazon.com/dp/0735619670/ref=cm_sw_r_tw_dp_ZFBBTKAJBEGXQ1C074E4) - [TypeScript](https://www.typescriptlang.org/docs/handbook/intro.html) - [Apollo GraphQL](https://www.apollographql.com/tutorials/)
+👨‍🏫 Learning: [C#](https://app.pluralsight.com/paths/skill/c-10) - [TypeScript](https://www.totaltypescript.com/workshops/typescript-pro-essentials)
 
 ### Get in touch ...
 
