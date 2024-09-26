@@ -2,7 +2,7 @@
 
 👨‍💻 Coding: Work stuff ...  
 📖 Reading:  
-- [_Men Without Women_ by Haruki Murakami](https://www.goodreads.com/book/show/33652490-men-without-women)  
+- [_Down with the System: A Memoir_ by Serj Tankian](https://www.goodreads.com/book/show/199844040-down-with-the-system)  
 - [_Keep Calm and Code On_ by Alex Lau](https://www.goodreads.com/book/show/214528135-keep-calm-and-code-on)  
 - [_Clean Code: A Handbook of Agile Software Craftsmanship_ by Robert C. Martin](https://www.goodreads.com/book/show/3735293-clean-code)
 
