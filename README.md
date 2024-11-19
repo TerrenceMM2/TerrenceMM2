@@ -2,7 +2,7 @@
 
 👨‍💻 Coding: Work stuff ...  
 📖 Reading:  
-- [_Down with the System: A Memoir_ by Serj Tankian](https://www.goodreads.com/book/show/199844040-down-with-the-system)  
+- [_Floating Hotel_ by Grace Curtis](https://www.goodreads.com/book/show/195177497-floating-hotel)  
 - [_Keep Calm and Code On_ by Alex Lau](https://www.goodreads.com/book/show/214528135-keep-calm-and-code-on)  
 - [_Clean Code: A Handbook of Agile Software Craftsmanship_ by Robert C. Martin](https://www.goodreads.com/book/show/3735293-clean-code)
 
