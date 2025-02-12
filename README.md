@@ -1,13 +1,14 @@
 ### Hi there. My name is Terrence. 👋 
 
-👨‍💻 Coding: Work stuff ...  
+👨‍💻 Coding: Revamping [my portfolio](https://terrence.codes).  
 📖 Reading:  
-- [_Floating Hotel_ by Grace Curtis](https://www.goodreads.com/book/show/195177497-floating-hotel)  
+- [_Twilight Company_ by Alexander Freed](https://www.goodreads.com/book/show/25455901-twilight-company)  
 - [_Keep Calm and Code On_ by Alex Lau](https://www.goodreads.com/book/show/214528135-keep-calm-and-code-on)  
 - [_Clean Code: A Handbook of Agile Software Craftsmanship_ by Robert C. Martin](https://www.goodreads.com/book/show/3735293-clean-code)
+- [_Working Effectively with Legacy Code_ by Michael C. Feathers](https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code)
 
-🎧 Listening: [Future Funk (Spotify Playlist)](https://open.spotify.com/playlist/37i9dQZF1DXbjGYBfEmjR5?si=4130827b2b1c492d)  
-🕹 Playing: The Legend of Zelda: Tears of the Kingdom <img src="https://raw.githubusercontent.com/TerrenceMM2/TerrenceMM2/main/assets/botw_link.png" height=20 />  
+🎧 Listening: Nothing at the moment ... recommendations are welcome.   
+🕹 Playing: Nothing at the moment ... recommendations are welcome.  
 👨‍🏫 Learning: [C#](https://app.pluralsight.com/paths/skill/c-10) - [TypeScript](https://www.totaltypescript.com/workshops/typescript-pro-essentials)
 
 ### Get in touch ...
